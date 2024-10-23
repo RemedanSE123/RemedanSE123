@@ -1,6 +1,8 @@
+![1950](https://github.com/user-attachments/assets/0483e6e3-655f-4eaf-a3ae-35496c4a41f7)
 # 💫 About Me:
 👋 Welcome to My GitHub Portfolio!<br><br>Hi, I'm Remedan Hyeredin, a 5th-year Software Engineering student at Adama Science and Technology University. With a strong foundation in Full Stack Web Development, I have completed several projects that showcase my proficiency in both frontend and backend technologies. My journey has now led me to specialize in Data Science, Data Engineering, and Data Analysis, where I’m diving deep into extracting valuable insights from data and building efficient systems.<br><br>💬 Let’s Collaborate!<br>I'm always open to collaborating on exciting projects, whether it's building web applications, creating insightful data visualizations, or tackling complex data engineering challenges. Feel free to reach out if you'd like to work together!<br><br>📧 Contact me: [remedanhyeredin@gmail.com]<br>🔗 LinkedIn: [https://www.linkedin.com/in/remedan/]
 
+![1357](https://github.com/user-attachments/assets/09ddf8ee-cccc-472b-a3d3-1d55adbe7695)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/remedan/) 
