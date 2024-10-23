@@ -1,8 +1,5 @@
 <table>
   <tr>
-    <td style="width: 50%; vertical-align: top; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/0483e6e3-655f-4eaf-a3ae-35496c4a41f7"  />
-    </td>
     <td style="width: 50%; vertical-align: top;">
       <h1>💫 About Me:</h1>
       <p>👋 Welcome to My GitHub Portfolio!<br><br>
@@ -10,8 +7,12 @@
          💬 Let’s Collaborate!<br>
          I'm always open to collaborating on exciting projects, whether it's building web applications, creating insightful data visualizations, or tackling complex data engineering challenges. Feel free to reach out if you'd like to work together!
       </p>
-      <br><br>📧 Contact me: [Email: remedanhyeredin@gmail.com]
+      <br><br>📧 Contact me: 
+      <br> 🔗 Email: [remedanhyeredin@gmail.com]
       <br>🔗 LinkedIn: [https://www.linkedin.com/in/remedan/]
+    </td>
+    <td style="width: 50%; vertical-align: top; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/0483e6e3-655f-4eaf-a3ae-35496c4a41f7" />
     </td>
   </tr>
 </table>
