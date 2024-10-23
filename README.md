@@ -1,11 +1,26 @@
+<table>
+  <tr>
+    <td style="width: 50%; vertical-align: top; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/0483e6e3-655f-4eaf-a3ae-35496c4a41f7"  />
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <h1>💫 About Me:</h1>
+      <p>👋 Welcome to My GitHub Portfolio!<br><br>
+         Hi, I'm Remedan Hyeredin, a 5th-year Software Engineering student at Adama Science and Technology University. With a strong foundation in Full Stack Web Development, I have completed several projects that showcase my proficiency in both frontend and backend technologies. My journey has now led me to specialize in Data Science, Data Engineering, and Data Analysis, where I’m diving deep into extracting valuable insights from data and building efficient systems.<br><br>
+         💬 Let’s Collaborate!<br>
+         I'm always open to collaborating on exciting projects, whether it's building web applications, creating insightful data visualizations, or tackling complex data engineering challenges. Feel free to reach out if you'd like to work together!
+      </p>
+      <br><br>📧 Contact me: [Email: remedanhyeredin@gmail.com]
+      <br>🔗 LinkedIn: [https://www.linkedin.com/in/remedan/]
+    </td>
+  </tr>
+</table>
 
-![gith](https://github.com/user-attachments/assets/b53ff239-2e6d-4e9b-8674-059b80f4ba4d)
 
 
-# 💫 About Me:
-👋 Welcome to My GitHub Portfolio!<br><br>Hi, I'm Remedan Hyeredin, a 5th-year Software Engineering student at Adama Science and Technology University. With a strong foundation in Full Stack Web Development, I have completed several projects that showcase my proficiency in both frontend and backend technologies. My journey has now led me to specialize in Data Science, Data Engineering, and Data Analysis, where I’m diving deep into extracting valuable insights from data and building efficient systems.<br><br>💬 Let’s Collaborate!<br>I'm always open to collaborating on exciting projects, whether it's building web applications, creating insightful data visualizations, or tackling complex data engineering challenges. Feel free to reach out if you'd like to work together!<br><br>📧 Contact me: [remedanhyeredin@gmail.com]<br>🔗 LinkedIn: [https://www.linkedin.com/in/remedan/]
 
-![1357](https://github.com/user-attachments/assets/0483e6e3-655f-4eaf-a3ae-35496c4a41f7)
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/remedan/) 
