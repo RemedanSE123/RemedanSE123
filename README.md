@@ -15,13 +15,10 @@
 </p>
 
 ---
-
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h1 align="center">💫 About Me</h1>
-
-      👋 Welcome to My GitHub Portfolio!<br><br>
+      <h2>👋 Welcome to My GitHub Portfolio!</h2>
 
       Hi, I'm <b>Remedan Hyeredin</b>, a Software Engineer specializing in 
       <b>Full Stack Web Development</b> and <b>Data Analysis</b>.<br><br>
@@ -63,7 +60,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🚀 What I Do
